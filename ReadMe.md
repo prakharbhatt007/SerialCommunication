@@ -20,8 +20,3 @@ Run the program, it's going to show the data your computer recieved from serial 
 ## History
 
 Previously, this program was only able to recieve the data but now it's going to send the data serially from the console to the controller 
-## Credits
-
-## License
-
-TODO: Write license
