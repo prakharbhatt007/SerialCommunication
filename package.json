@@ -1,0 +1,28 @@
+{
+  "name": "serialcommunication",
+  "version": "1.0.0",
+  "description": "This is the communication program that takes input from console and send the data serially to the controller. It also displays the data recieved from controller on the console.",
+  "main": "senddataserial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakharbhatt007/SerialCommunication.git"
+  },
+  "keywords": [
+    "serialcommunication",
+    "betweeen",
+    "microcontroller"
+  ],
+  "dependencies": {
+    "serialport": "^6.2.0",
+    "prompt": "1.0.0"
+  },
+  "author": "Prakhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakharbhatt007/SerialCommunication/issues"
+  },
+  "homepage": "https://github.com/prakharbhatt007/SerialCommunication#readme"
+}
