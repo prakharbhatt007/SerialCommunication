@@ -1,6 +1,6 @@
 # Serial Communication
 
-This project sends the data that you write from console to and other device connected serially. Also, it displays the data recieved from the controller to the console.
+This project sends the data that you write from console to the other device connected serially. Also, it displays the serial data recieved from the controller to the console.
 
 ## Installation
 
